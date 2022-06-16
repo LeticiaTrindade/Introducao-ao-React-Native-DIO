@@ -45,7 +45,7 @@ const App = () => {
 
         <Pressable onPress={handlePressGoGithub}> 
           <View style={styles.button}>
-            <Text style={[styles.defaultText, styles.colorFontDarkGithub]}>Opn in Github</Text>
+            <Text style={[styles.defaultText, styles.colorFontDarkGithub]}>Open in Github</Text>
           </View>
 
         <StatusBar style="auto" />
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     backgroundColor: colorGithub,
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 20,
+    padding: 23,
   },
 
   imgProfile: {
@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
     borderRadius: 125,
     borderWidth: 2,
     borderColor: 'gray',
+    margin: 10,
   },
 
   defaultText: {
@@ -95,12 +96,14 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 17,
     fontWeight: 'bold', 
+    margin: 15,
   },
 
   button: {
     backgroundColor: colorFontDarkGithub,
     borderRadius: 40,
-    padding: 20,
+    padding: 17,
+    margin: 10,
   }
   
 
