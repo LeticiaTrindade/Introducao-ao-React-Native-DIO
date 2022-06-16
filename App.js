@@ -40,17 +40,331 @@ const App = () => {
 
         <Text 
         accessibilityLabel='Descrição: Estudante de Licenciatura em Computação na Universidade Federal Rural de Pernambuco e professoa de programação na escola Byjus FutureSchool. @leticiatrindadet'
-        style={[styles.defaultText, styles.description]}>Estudante de Licenciatura em Computação na Universidade Federal Rural de Pernambuco e professoa de programação na escola Byju's FutureSchool. @leticiatrindadet
+        style={[styles.defaultText, styles.description]}>Estudante de Licenciatura em Computação na Universidade Federal Rural de Pernambuco. @leticiatrindadet
         </Text>
+
+        <View style={styles.vertical}>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+  
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight3]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight3]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight3]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight3]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+<Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight3]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight3]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight2]} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+<View style={styles.horizontal}>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={[styles.pixelArtDefault, styles.pixelArtLight1]} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+  <Text style={styles.pixelArtDefault} >
+  </Text>
+
+</View>
+
+
+</View>
 
         <Pressable onPress={handlePressGoGithub}> 
           <View style={styles.button}>
-            <Text style={[styles.defaultText, styles.colorFontDarkGithub]}>Open in Github</Text>
+            <Text style={[styles.defaultText, styles.colorFontDarkGithub, styles.buttonText]}>Open in GitHub</Text>
           </View>
 
+        
         <StatusBar style="auto" />
         </Pressable>
       </View>
+
 
     </SafeAreaView>
 );
@@ -103,8 +417,47 @@ const styles = StyleSheet.create({
     backgroundColor: colorFontDarkGithub,
     borderRadius: 40,
     padding: 17,
-    margin: 10,
-  }
+    margin: 15,
+    alignItems: 'center',
+
+  },
+
+  buttonText: {
+    fontWeight: 'bold',
+  },
+
+  horizontal: {
+    flexDirection: 'row',
+    
+  },
+
+  vertical: {
+    flexDirection: 'column' ,
+    
+  },
   
+  pixelArtDefault: {
+
+    backgroundColor: '#1D8348',
+    width: 10,
+    height: 10,
+    borderRadius: 2,
+    margin: 1,
+  },
+
+  pixelArtLight1:{
+    backgroundColor: '#2ECC71'
+
+  },
+
+  pixelArtLight2:{
+    backgroundColor: '#82E0AA'
+
+  },
+
+  pixelArtLight3:{
+    backgroundColor: '#EAFAF1'
+
+  },
 
 });
